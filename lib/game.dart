@@ -26,7 +26,7 @@ class GameScreen extends StatelessWidget {
               gameRef: game,
             ),
       },
-      showCollisionArea: true,
+      // showCollisionArea: true,
       map: WorldMapByTiled(
         TiledReader.asset('map.json'),
         objectsBuilder: {
