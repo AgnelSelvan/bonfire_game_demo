@@ -1,0 +1,14 @@
+{ "columns":19,
+ "image":"Serene_Village_32x32.png",
+ "imageheight":1440,
+ "imagewidth":608,
+ "margin":0,
+ "name":"Serene_Village_32x32",
+ "spacing":0,
+ "tilecount":855,
+ "tiledversion":"1.10.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

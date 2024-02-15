@@ -1,0 +1,15 @@
+{
+    "columns": 7,
+    "image": "sheet.png",
+    "imageheight": 128,
+    "imagewidth": 240,
+    "margin": 0,
+    "name": "character",
+    "spacing": 0,
+    "tilecount": 28,
+    "tiledversion": "1.10.2",
+    "tileheight": 16,
+    "tilewidth": 16,
+    "type": "tileset",
+    "version": "1.10"
+}
